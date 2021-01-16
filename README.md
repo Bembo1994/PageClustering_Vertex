@@ -7,3 +7,5 @@ L'esecuzione standard valuta cluster già creati in precedenza; se si vuole eseg
 Se si vuole scaricare solo il dataset è possibile farlo attraverso questo link :
 
 https://drive.google.com/drive/folders/1cSuQTTY3HwIyDRoflNOXGxM7lbkY8bUV?usp=sharing 
+
+Il codice si può eseguire su S.O. Linux
